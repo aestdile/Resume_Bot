@@ -21,3 +21,4 @@ Bu oddiy **Telegram Bot**, siz haqingizdagi ma'lumotlarni (rezume shaklida) foyd
    ```bash
    git clone https://github.com/username/Resume_Bot.git
    cd Resume_Bot
+# Follow me!
