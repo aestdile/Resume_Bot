@@ -1,11 +1,8 @@
-﻿
 using Telegram.Bot;
 using Telegram.Bot.Polling;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
-
-
 
 public class Program
 {
@@ -19,9 +16,7 @@ public class Program
     {
         string token = @"Your_Token";
         telegramBot = new TelegramBotClient(token);
-
         telegramBot.StartReceiving(HandleUpdate, HandleError);
-
         Console.ReadLine();
     }
 
