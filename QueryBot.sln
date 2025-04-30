@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resume_Bot", "QueryBot\Resume_Bot.csproj", "{B26F92E4-7882-4F8E-8834-2F5AA0ABCF3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26F92E4-7882-4F8E-8834-2F5AA0ABCF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26F92E4-7882-4F8E-8834-2F5AA0ABCF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26F92E4-7882-4F8E-8834-2F5AA0ABCF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26F92E4-7882-4F8E-8834-2F5AA0ABCF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7972AAFE-F84D-47ED-9EC1-FBDC194A648A}
+	EndGlobalSection
+EndGlobal
