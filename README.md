@@ -1,1 +1,1 @@
-# QueryBot
+#Resume Bot
