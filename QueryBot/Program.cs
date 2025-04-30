@@ -17,7 +17,7 @@ public class Program
     private const string contactMeCommand = "Contact Me";
     private static void Main(string[] args)
     {
-        string token = @"7910522113:AAFt7jwyzMfzV8x3QnS_YX1sKIikPZaRjno";
+        string token = @"Your_Token";
         telegramBot = new TelegramBotClient(token);
 
         telegramBot.StartReceiving(HandleUpdate, HandleError);
